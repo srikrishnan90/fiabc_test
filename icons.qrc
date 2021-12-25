@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>close.png</file>
+        <file>home.png</file>
+        <file>settings.png</file>
+        <file>../flask.png</file>
+        <file>flask.png</file>
+    </qresource>
+</RCC>
